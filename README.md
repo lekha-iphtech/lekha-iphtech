@@ -16,7 +16,6 @@ I'm open to exploring:
 Whether you're building a new technology venture, modernizing an enterprise platform, or exploring a strategic technology partnership, I'd be happy to connect and explore opportunities for collaboration.
 
 🌐 **[Explore IPH Technologies](https://iphtechnologies.com/)**  
-💼 **[Connect on Upwork](YOUR_UPWORK_PROFILE_URL)**  
-🔗 **[Connect on LinkedIn](YOUR_LINKEDIN_PROFILE_URL)**
+🔗 **[Connect on LinkedIn](https://www.linkedin.com/in/lekha-mishra)**
 
 **Let's connect, collaborate, and build intelligent digital ecosystems together.**
